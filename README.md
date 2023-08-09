@@ -5,12 +5,6 @@ and [DDRNet](https://bitbucket.org/kiriyachristin/comp3888_th16_03_christin/src/
 each model and using Docker containers to create a consistent environment for them to be run in. Documentation for the individual 
 models are stored in their respective folders.   
 
-Two other models can be found here:  
-Model 1: [DecoupleSegNets](https://bitbucket.org/kiriyachristin/comp3888_th16_03_repom1/src/master/)  
-Model 2: [HANet](https://bitbucket.org/abstractblaze/hanet/src/master/)  
-
-The wiki pages for group work are [here](https://bitbucket.org/kiriyachristin/comp3888_th16_03/wiki/browse/)
-
 ## Docker Installation
 Individual information provided in the model sections. Please install Docker through normal linux pathways.
 
